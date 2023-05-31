@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//Belajar mrembuat program Tentang Perkenalan diri 
 public class ProgramSapaan {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
