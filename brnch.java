@@ -12,5 +12,9 @@ public class ProgramSapaan {
         // Menyapa pengguna dengan nama yang dimasukkan
         System.out.println("Halo, " + nama + "! Salam Kenal.");
         System.out.println( nama + " Boleh Minta Wa nya nggk")
+            
+            
+        System.out.print("Minta Nomernya Ya Cantik")
+        String Nomor = scanner.nextLine();
     }
 }
